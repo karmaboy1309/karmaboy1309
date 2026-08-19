@@ -75,7 +75,7 @@
 ## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=karmaboy1309&theme=radical&hide_border=true&border_radius=10&ring=8A2BE2&fire=FF4D6D&currStreakLabel=FF4D6D&sideLabels=8A2BE2&dates=AAAAAA" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=karmaboy1309&theme=radical&hide_border=true" />
 </p>
 
 # 📊 GitHub Stats:
